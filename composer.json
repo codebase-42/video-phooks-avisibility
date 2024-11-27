@@ -1,0 +1,16 @@
+{
+    "name": "codebase42/video-phooks-avisibility",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Codebase42\\VideoPHooksAVisibility\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo Oberle",
+            "email": "leocello@gmail.com"
+        }
+    ],
+    "require": {}
+}
